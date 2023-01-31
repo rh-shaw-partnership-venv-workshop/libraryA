@@ -1,0 +1,9 @@
+[project]
+name = "libraryA"
+version = "1.0.0"
+description = "Test package"
+readme = "README.rst"
+
+dependencies = [
+  "pytest==4.0.0"
+]
