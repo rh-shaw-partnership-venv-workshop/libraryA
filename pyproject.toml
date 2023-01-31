@@ -2,7 +2,8 @@
 name = "libraryA"
 version = "1.0.0"
 description = "Test package"
-readme = "README.rst"
+readme = "README.md"
+requires-python = "==3.8"
 
 dependencies = [
   "pytest==4.0.0"
